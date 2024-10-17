@@ -10,4 +10,3 @@ int main(){
     result = number1 + number2; 
     cout<<"sum of two number is"<<result;
 }
-
